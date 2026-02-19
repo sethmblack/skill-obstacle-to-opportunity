@@ -3,8 +3,8 @@ name: obstacle-to-opportunity
 description: Reframe setbacks, failures, and difficulties as opportunities to practice virtue and grow stronger.
 license: MIT
 metadata:
-  version: 1.0.4594
   author: sethmblack
+  version: 1.0.4595
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
